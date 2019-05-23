@@ -1,4 +1,4 @@
 *:not(path):not(g) {
-  outline: solid 0.25rem rgba(255, 251, 0, 0.5) !important;
+  outline: solid 0.25rem rgba(255, 1, 136, 0.3) !important;
   box-shadow: none !important;
 }
