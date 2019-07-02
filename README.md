@@ -1,4 +1,4 @@
-# debug JS
+# Debug JS
 <p>JavaScript script showing elements borders.</p>
 <p>Help to build website from scratch.</p>
 
