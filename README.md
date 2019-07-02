@@ -5,4 +5,4 @@
 <h2>How to use???</h2>
 <p>Just paste this link before body closing tag:<p>
 
-<p><script src="https://cholodymedia.github.io/debug/debug.js"></script></p>
+<p><xmp><script src="https://cholodymedia.github.io/debug/debug.js"></script></xmp></p>
