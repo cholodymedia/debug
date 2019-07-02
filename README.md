@@ -1,6 +1,5 @@
 # debug JS
 JavaScript script showing elements borders.
-
 Help to build website from scratch.
 
 How to use???
