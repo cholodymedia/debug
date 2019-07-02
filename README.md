@@ -1,9 +1,8 @@
 # debug JS
-JavaScript script showing elements borders.
-Help to build website from scratch.
+<p>JavaScript script showing elements borders.</p>
+<p>Help to build website from scratch.</p>
 
-How to use???
+<h2>How to use???</h2>
+<p>Just paste this link before body closing tag:<p>
 
-Just paste this link before body closing tag ("</body>"):
-
-<script src="https://cholodymedia.github.io/debug/debug.js"></script>
+<p><script src="https://cholodymedia.github.io/debug/debug.js"></script></p>
