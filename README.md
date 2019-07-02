@@ -7,4 +7,6 @@
 
 <p><code><script src="https://cholodymedia.github.io/debug/debug.js"></script></code></p>
 
-<p>To start or close script use <b>~</b> button on your keyboard</p>
+<p>To start or close script use <b>~</b> button on your keyboard or use command:</p>
+<p>To start: <b><i>deb.show();</i></b></p>
+<p>To stop: <b><i>deb.hide();</i></b></p>
