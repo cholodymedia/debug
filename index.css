@@ -144,6 +144,10 @@ body {
   align-items: center;
 }
 
+.logo i {
+  cursor: pointer;
+}
+
 .main img {
   width: 20vw;
 }
