@@ -5,7 +5,7 @@ function copy() {
   // prettier-ignore
   var el = document.createElement('textarea');
   // prettier-ignore
-  el.value = '<script src="https://cholodymedia.github.io/debug/debug.js"></script>';
+  el.value = '<script src="https://cholodymedia.github.io/debug/debug.js" defer></script>';
   // Set non-editable to avoid focus and move outside of view
   el.setAttribute("readonly", "");
   el.style = { position: "absolute", left: "-9999px" };

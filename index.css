@@ -163,6 +163,7 @@ body {
   border-radius: 30px;
   cursor: pointer;
   font-size: 0.9vw;
+  font-weight: 400;
 }
 
 .copied {
@@ -243,7 +244,7 @@ body {
 }
 
 .screen {
-  width: 70%;
+  width: 80%;
   margin-top: 2vh;
 }
 
